@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>7fa4cc0f-fe91-4ca8-a242-b5e191079fd9</ProjectGuid>
+    <ProjectGuid>{70EB2D1A-1031-4CCE-8FF6-552AC6286602}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ReceiptManagerTests</RootNamespace>

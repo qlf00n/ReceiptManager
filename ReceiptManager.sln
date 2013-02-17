@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptManager", "ReceiptManager.csproj", "{BCCF78BF-FF81-48BF-821A-D17A774F2CAC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptManager", "ReceiptManager\ReceiptManager.csproj", "{BCCF78BF-FF81-48BF-821A-D17A774F2CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptManagerTests", "ReceiptManagerTests\ReceiptManagerTests.csproj", "{70EB2D1A-1031-4CCE-8FF6-552AC6286602}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{BCCF78BF-FF81-48BF-821A-D17A774F2CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCCF78BF-FF81-48BF-821A-D17A774F2CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCCF78BF-FF81-48BF-821A-D17A774F2CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70EB2D1A-1031-4CCE-8FF6-552AC6286602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EB2D1A-1031-4CCE-8FF6-552AC6286602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EB2D1A-1031-4CCE-8FF6-552AC6286602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EB2D1A-1031-4CCE-8FF6-552AC6286602}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
